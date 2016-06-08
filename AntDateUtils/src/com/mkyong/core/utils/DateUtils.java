@@ -8,8 +8,12 @@ public class DateUtils {
 
 		System.out.println(getLocalCurrentDate());
 		
+		
 	}
-
+/**
+ * Method to get date now
+ * @return
+ */
 	private static Date getLocalCurrentDate() {
 	
 		return new Date();
