@@ -9,7 +9,9 @@ public class DateUtils {
 		System.out.println(getLocalCurrentDate());
 		
 	}
-
+/**
+ * Method to get current date
+ * /
 	private static Date getLocalCurrentDate() {
 	
 		return new Date();
